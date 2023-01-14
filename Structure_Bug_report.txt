@@ -1,7 +1,0 @@
-ID:
-Environement:
-Title:
-Steps:
-Expected_result:
-Actual_result:
-Attach:
